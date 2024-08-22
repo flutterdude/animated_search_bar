@@ -27,7 +27,7 @@ This repository contains a Flutter tutorial that demonstrates how to create a st
     flutter run
     ```
 4. **Follow along with the YouTube Tutorial:**
-   [Animated Search Bar in Flutter](https://www.youtube.com/watch?v=_nR9i4XojfA&t=560s)
+   [Animated Search Bar in Flutter](https://www.youtube.com/watch?v=_nR9i4XojfA)
 
 # File Descriptions
 
